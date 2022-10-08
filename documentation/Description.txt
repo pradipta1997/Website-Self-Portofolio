@@ -1,0 +1,11 @@
+Self Portfolio Website | Responsive support for Desktop, Tablet, and Mobile Screen |
+Using Paralax Effect
+
+Program Language : HTML5, all CSS, Javascript, jQuery, Font-Awesome(support)
+Code Editor	 : Visual Studio 2020
+Font Face	 : Helvetica Neue & Calibri
+Base Color	 : Grey & Black
+Image Source	 : Pixabay.com
+Music By	 : -Paul Anka (Put Your Head on My Shoulder)
+		   -Frank Sinatra (Fly Me to The Moon)
+Category	 : Front-End & Back-End
